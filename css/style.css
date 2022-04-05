@@ -15,3 +15,9 @@
     grid-template-columns: 1fr 1fr;
     grid-column-gap:10px;
 }
+
+.hotline-title{
+    background-color: green;
+    color: white;
+    padding: 2px;
+}
